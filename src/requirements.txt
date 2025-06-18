@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+dateparser
+discord
+flask
+schedule
+unidecode

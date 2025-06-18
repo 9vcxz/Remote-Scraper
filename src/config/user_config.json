@@ -1,0 +1,8 @@
+{
+    "SERVER_URL": "http://192.168.0.28:5000",
+    "DISCORD_UID": "",
+    "NOTIF_FREQ_SECS": 30,
+    "NOTIF_NEW_ITEMS": true,
+    "NOTIF_PRICE_DROP": true,
+    "NOTIF_REMOVED_ITEMS": true
+}
